@@ -12,7 +12,7 @@
 ##
 
 <div style="display: inline_block" align="center"><br>
-   Conhecimento em Academicos em:
+   Conhecimentos Academicos em:
    <br>
   
    ![Top Langs](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

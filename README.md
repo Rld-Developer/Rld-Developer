@@ -6,7 +6,7 @@
 </div>
 <div align="center">
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true">    <img  alt="rldclaro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rldclaro?cardType=github&theme=github-dark&preferLogin=true" />  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rldclaro&layout=compact&langs_count=7&theme=dark"/>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ##

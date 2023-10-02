@@ -5,8 +5,7 @@
 
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rldclaro&show_icons=true&theme=dark&include_all_commits=true"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rldclaro&theme=dark&show_icons=true)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rldclaro?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rldclaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
